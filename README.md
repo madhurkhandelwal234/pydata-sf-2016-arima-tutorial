@@ -4,7 +4,7 @@
 
 To clone this repository, run the command:
 ```bash
-git clone git@github.com:silicon-valley-data-science/pydata-sf-2016-arima-tutorial.git
+git clone https://github.com/silicon-valley-data-science/pydata-sf-2016-arima-tutorial
 ```
 
 Requirements (Anaconda/conda install) plus one bleeding edge package:
